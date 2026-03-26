@@ -1,8 +1,8 @@
 pandas
 plotly
-librosa
-tensorflow-cpu
-numpy
+librosa==0.10.1
+tensorflow-cpu==2.15.0
+numpy<2.0.0
 streamlit
 scikit-learn
 matplotlib
