@@ -1,10 +1,9 @@
 pandas
 plotly
 librosa
-tensorflow
+tensorflow-cpu
 numpy
 streamlit
 scikit-learn
 matplotlib
-# requests is usually pre-installed but good to have
 requests
