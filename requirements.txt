@@ -1,9 +1,10 @@
-tensorflow
+pandas
+plotly
 librosa
+tensorflow
 numpy
 streamlit
 scikit-learn
 matplotlib
-seaborn
+# requests is usually pre-installed but good to have
 requests
-plotly
