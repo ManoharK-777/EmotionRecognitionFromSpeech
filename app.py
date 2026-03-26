@@ -91,8 +91,7 @@ EMOTION_META = {
 def load_model():
     if os.path.exists(MODEL_PATH):
         # compile=False avoids errors if the optimizer or loss fn names changed
-        # safe_mode=False allows loading models across different Keras versions
-        return tf.keras.models.load_model(MODEL_PATH, compile=False, safe_mode=False)
+        return tf.keras.models.load_model(MODEL_PATH, compile=False)
     return None
 
 def extract_features(audio_data, sample_rate):
