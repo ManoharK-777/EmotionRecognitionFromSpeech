@@ -1,0 +1,13 @@
+SPEECH EMOTION RECOGNITION - CLASSIFICATION REPORT
+==================================================
+
+              precision    recall  f1-score   support
+
+     Neutral       0.79      0.71      0.75        21
+       Happy       0.68      0.78      0.72        32
+         Sad       0.73      0.77      0.75        35
+       Angry       0.90      0.81      0.85        47
+
+    accuracy                           0.78       135
+   macro avg       0.77      0.77      0.77       135
+weighted avg       0.79      0.78      0.78       135

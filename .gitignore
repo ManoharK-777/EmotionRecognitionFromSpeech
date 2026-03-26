@@ -1,0 +1,19 @@
+# Data & Temp files
+data/
+temp_ravdess/
+temp.wav
+temp_samples/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
